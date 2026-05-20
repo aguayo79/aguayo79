@@ -1,4 +1,7 @@
-## Hi there 👋
+Hello!
+
+My name is Adrian Aguayo and I am currently a CompSci student at Arizona State University. 
+I am also an Indie Game Developer currently working on a special project!
 
 <!--
 **aguayo79/aguayo79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
