@@ -1,4 +1,4 @@
-Hello!
+## Hello!
 
 My name is Adrian Aguayo and I am currently a CompSci student at Arizona State University. 
 I am also an Indie Game Developer currently working on a special project!
